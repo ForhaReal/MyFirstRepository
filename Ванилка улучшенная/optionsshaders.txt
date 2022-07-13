@@ -1,0 +1,19 @@
+#Wed Jul 13 01:09:28 MSK 2022
+shaderPack=ComplementaryShaders_v4.5.zip
+TexMinFilB=0
+handDepthMul=0.125
+TexMagFilS=0
+cloudShadow=true
+TexMagFilN=0
+antialiasingLevel=0
+specularMapEnabled=true
+oldLighting=default
+TexMinFilS=0
+renderResMul=1.0
+TexMagFilB=0
+normalMapEnabled=true
+tweakBlockDamage=false
+shadowResMul=1.0
+TexMinFilN=0
+oldHandLight=default
+shadowClipFrustrum=true
